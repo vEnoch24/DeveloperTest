@@ -56,6 +56,8 @@
                 Console.WriteLine(a);
             }
 
+            Console.WriteLine();
+
             // TASK 5
             Greet("Alice");
         }

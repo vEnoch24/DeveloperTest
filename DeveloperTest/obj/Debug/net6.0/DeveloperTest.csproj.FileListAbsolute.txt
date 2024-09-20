@@ -12,3 +12,4 @@ C:\Users\Enoch\source\repos\DeveloperTest\DeveloperTest\obj\Debug\net6.0\refint\
 C:\Users\Enoch\source\repos\DeveloperTest\DeveloperTest\obj\Debug\net6.0\DeveloperTest.pdb
 C:\Users\Enoch\source\repos\DeveloperTest\DeveloperTest\obj\Debug\net6.0\DeveloperTest.genruntimeconfig.cache
 C:\Users\Enoch\source\repos\DeveloperTest\DeveloperTest\obj\Debug\net6.0\ref\DeveloperTest.dll
+C:\Users\Enoch\source\repos\DeveloperTest\DeveloperTest\obj\Debug\net6.0\DeveloperTest.sourcelink.json
